@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Nathaniel Davies',
+    linkedin: 'nathanielpdavies',
     twitter: '',
     mastodon: '',
     researchGate: '',
