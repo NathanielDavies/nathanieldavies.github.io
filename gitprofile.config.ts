@@ -129,11 +129,11 @@ const CONFIG = {
       journalName: 'Synthetic Approaches Towards A Marine Natural Product, Anomoian B',
       authors: 'Nathaniel Davies, Lydia Stiles',
       link: '',
-      description: '1st place in the 38th Annual Student Research Competition',
+      description: '1st place in the oral presenation event at the 38th Annual Student Research Competition',
     },
     {
       title: 'Poster Presentation',
-      conferenceName: 'CSU Stanislaus Undergraduate Research Presentation',
+      conferenceName: 'CSU Stanislaus Undergraduate Research Conference',
       journalName: 'Synthetic Approaches Towards A Marine Natural Product, Anomoian B',
       authors: 'Nathaniel Davies',
       link: '',
