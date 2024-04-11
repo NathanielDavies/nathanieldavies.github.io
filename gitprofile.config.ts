@@ -121,22 +121,16 @@ const CONFIG = {
       from: '',
       to: '',
     },
-    {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
-    },
   ],
   publications: [
     {
-      title: 'Effects of short-term experimental manipulation of captive social environment on uropygial gland microbiome and preen oil volatile composition',
+      title: '',
       conferenceName: '',
-      journalName: 'Frontiers in Ecology and Evolution',
-      authors: 'Danielle J. Whittaker, Amruth Atyam, Nathan A. Burroughs, Jonathan M. Greenberg, Travis J. Hagey, Milos V. Novotny, Helena A. Soini, Kevin R. Theis, Tricia A. Van Laar, and Joel W. G. Slade',
-      link: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1027399/full',
+      journalName: '',
+      authors: '',
+      link: '',
       description:
-        'Avian preen oil, secreted by the uropygial gland, is an important source of volatile compounds that convey information about the sender’s identity and quality, making preen oil useful for the recognition and assessment of potential mates and rivals. Although intrinsic factors such as hormone levels, genetic background, and diet can affect preen oil volatile compound composition, many of these compounds are not the products of the animal’s own metabolic processes, but rather those of odor-producing symbiotic microbes. Social behavior affects the composition of uropygial microbial communities, as physical contact results in microbe sharing. We experimentally manipulated social interactions in captive dark-eyed juncos (Junco hyemalis) to assess the relative influence of social interactions, subspecies, and sex on uropygial gland microbial composition and the resulting preen oil odor profiles',
+        '',
     },
     {
       title: 'Publication Title',
