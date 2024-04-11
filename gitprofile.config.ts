@@ -80,22 +80,30 @@ const CONFIG = {
       'https://nathanieldavies.github.io/pdf/NathanielDavies-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Laboratory Research', 'Biotechnology', 'Experience working with animals'
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      company: 'California State University, Stanislaus',
+      position: 'Undergraduate Researcher',
+      from: 'November 2022',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'Canal Veterinary Hospital',
+      position: 'Veterinary Nurse',
+      from: 'February 2020',
+      to: 'January 2023',
+      companyLink: '',
+    },
+
+    {
+      company: 'Westside Ministries',
+      position: 'Dance Instructor',
+      from: 'May 2017',
+      to: 'October 2019',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -108,10 +116,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
-      to: '2024',
+      institution: 'California State University, Stanislaus',
+      degree: 'B.S',
+      from: '',
+      to: '',
     },
     {
       institution: 'University of Texas at San Antonio',
