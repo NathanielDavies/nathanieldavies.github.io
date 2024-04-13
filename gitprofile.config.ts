@@ -29,24 +29,24 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Synthetic Approaches Towards A Marine Natural Product, Anomoian B Poster',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Poster presentation at the Annual California State University, Stanislaus Student Research Presentation',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/Anomoian%20B%20Poster%20Final.pdf',
+          link: 'https://anomoianbposter.com',
         },
         {
-          title: 'Project Name',
+          title: 'SERSCA Competition at CSU Stanislaus',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '1st place in oral presentations for Biological Sciences',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/SCERSCA%20Comp.%20Presentation.pptx',
+          link: 'https://serscapresentation.com',
         },
       ],
     },
