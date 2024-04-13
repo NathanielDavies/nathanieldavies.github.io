@@ -118,7 +118,7 @@ const CONFIG = {
     {
       institution: 'California State University, Stanislaus',
       degree: 'B.S Biological Sciences with Molecular, Cellular, and Microbiology concentration',
-      from: '',
+      from: '2024',
       to: '',
     },
   ],
