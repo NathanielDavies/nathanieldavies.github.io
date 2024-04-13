@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Poster presentation at the Annual California State University, Stanislaus Student Research Presentation',
           imageUrl:
-            'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/Anomoian%20B%20Poster%20Final.pdf',
+            'https://nathanieldavies.github.io/pdf/Anomoian B.jpeg',
           link: 'https://anomoianbposter.com',
         },
         {
