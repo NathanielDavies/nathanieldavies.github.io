@@ -38,7 +38,7 @@ const CONFIG = {
             'Poster presentation at the Annual California State University, Stanislaus Student Research Presentation',
           imageUrl:
             'https://nathanieldavies.github.io/pdf/Anomoian B.jpeg',
-          link: 'https://anomoianbposter.com',
+          link: 'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/Anomoian%20B%20Poster%20Final.pdf',
         },
         {
           title: 'SERSCA Competition at CSU Stanislaus',
@@ -46,7 +46,7 @@ const CONFIG = {
             '1st place in oral presentations for Biological Sciences',
           imageUrl:
             'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/SCERSCA%20Comp.%20Presentation.pptx',
-          link: 'https://serscapresentation.com',
+          link: 'https://github.com/NathanielDavies/nathanieldavies.github.io/raw/main/pdf/SCERSCA%20Comp.%20Presentation.pptx',
         },
       ],
     },
