@@ -54,7 +54,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Nathaniel Davies',
     description: '',
-    imageURL: '',
+    imageURL: 'https://github.com/NathanielDavies/nathanieldavies.github.io/blob/main/pdf/Headshot%20Compressed.jpeg',
   },
   social: {
     linkedin: 'nathanielpdavies',
