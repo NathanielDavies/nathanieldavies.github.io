@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://nathanieldavies.github.io/pdf/NathanielDavies-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/NathanielDavies/nathanieldavies.github.io/raw/main/pdf/NathanielDavies-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Laboratory Research', 'Biotechnology', 'Experience working with animals'
