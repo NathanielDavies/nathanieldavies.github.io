@@ -118,8 +118,8 @@ const CONFIG = {
     {
       institution: 'California State University, Stanislaus',
       degree: 'B.S Biological Sciences with Molecular, Cellular, and Microbiology concentration',
-      from: '2024',
-      to: '',
+      from: '2022',
+      to: '2024',
     },
   ],
   presentations: [
